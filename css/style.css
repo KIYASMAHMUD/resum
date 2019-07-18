@@ -1,0 +1,469 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+header{
+	
+	    width: 100%;
+    float: left;
+    background-color: #87509c;
+}
+
+.logo{
+width: 30%;
+    float: left;
+}
+
+.logo img{
+	display: block;
+	max-width: 100%;
+    margin: 15px 47px;
+}
+
+.menu{
+    width: 70%;
+    float: left;
+}
+
+nav ul{
+       list-style: none;
+    margin: 10px -66px;
+}
+
+nav ul li{
+       display: inline-block;
+    margin: 26px 56px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.header-content{
+    padding-top: 100px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 35px 54px 37px 65px;
+}
+
+.header-content h2{
+    color: white;
+    padding: 18px;
+    line-height: 35px;
+    font-size: 25px;
+
+}
+
+.btn{
+	    margin: -2px;
+    
+    background-color: #EB7D4B;
+    padding: 9px 12px;
+    border: none;
+    box-shadow: 0px 3px 0px #9a270d;
+}
+
+.service{
+    width: 100%;
+    float: left;
+    background-color: #17C2A4;
+}
+
+
+.service-title{
+    width: 662px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.service-tite h2{
+
+}
+
+.underline{
+    border-bottom: 2px solid #161616;
+    display: block;
+    width: 116px;
+    margin: 13px auto;
+}
+
+.service-title p{
+	font-size: 19px;
+    line-height: 29px;
+}
+
+.service-box{
+
+}
+
+.service-one{
+    width: 21%;
+    float: left;
+    margin: 10px 20px;
+    padding: 2px;
+    text-align: center;
+}
+
+.service-one img{
+	    vertical-align: middle;
+    border: 0;
+}
+.service-one h2{
+	    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.service-one p{
+	    color: #fff;
+}
+
+.profile{
+    width: 100%;
+    float: left;
+    background: #D3D3D3;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.profile-title{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profile-title h1{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.underline{
+	    border-bottom: 2px solid #161616;
+    width: 100px;
+    display: block;
+    margin: 10px auto
+}
+
+.profile-title p{
+	font-size: 19px
+}
+
+.profile-one{
+    width: 21%;
+    float: left;
+    text-align: center;
+    margin: 10px 20px;
+    padding: 2px;
+}
+.profile-one img{
+width: 150px;
+}
+
+.profile-one h2{
+margin-top: 10px;
+}
+.profile-one h3{
+color: #9363B7;
+}
+
+.profile-one a{
+	    color: #9E9E9E;
+    font-size: 22px;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.fa{
+	    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.skill{
+    width: 100%;
+    float: left;
+    background: #FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.skill-title{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skill-title h1{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.skill-title p{
+    font-size: 19px;
+}
+
+.underline{
+	    border-bottom: 2px solid #161616;
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+}
+
+.skill-one {
+    width: 21%;
+    float: left;
+    text-align: center;
+    margin: 10px 20px;
+    padding: 2px;
+    position: relative;
+    padding-top: 20px;
+}
+.skill-one span {
+    position: absolute;
+    top: 80px;
+    left: 105px;
+}
+.skill-one img {
+    width: 145px;
+}
+.skill-one h2 {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.portfolio {
+    width: 100%;
+    float: left;
+    background: #FFDD99;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.portfolio-title {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.portfolio-title h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.underline {
+    border-bottom: 2px solid #161616;
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+}
+.portfolio-title p {
+    font-size: 19px;
+}
+.btn-2 {
+    background: #C7AC75;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 5px;
+    border: 0;
+}
+.portfolio-one {
+    width: 46%;
+    float: left;
+    padding-top: 20px;
+    text-align: center;
+    margin: 10px 20px;
+}
+.portfolio-one img {
+    vertical-align: middle;
+    border: 0;
+}
+.portfolio-one p {
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.about {
+    width: 100%;
+    float: left;
+    background: #D74680;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.about-title h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.underline {
+    border-bottom: 2px solid #161616;
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+}
+.about-title p {
+    font-size: 19px;
+    color: #fff;
+}
+
+
+.about-one {
+    width: 570px;
+    float: left;
+}
+.side {
+    width: 15%;
+    float: left;
+}
+.side img {
+    width: 120px;
+}
+.side-2 {
+    width: 60%;
+    float: left;
+    padding-top: 25px;
+    margin-left: 80px;
+}
+.side-2 p {
+    font-size: 15px;
+    color: #fff;
+    text-align: justify;
+}
+.side-2 h1 {
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: justify;
+}
+.side-2 h6 {
+    color: #F6B864;
+    text-align: justify;
+    font-size: 16px;
+}
+.touch {
+    width: 100%;
+    float: left;
+    background: #3C5499;
+    padding-top: 30px;
+    text-align: center;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.touch-title {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.touch-title h1 {
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #fff;
+}
+.underline {
+    border-bottom: 2px solid #161616;
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+}
+.touch-title p {
+    font-size: 18px;
+    color: #fff;
+}
+.name {
+    width: 45%;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+.name input {
+    background: #0D3252;
+    border: 0;
+    padding: 5px;
+    padding-left: 100px;
+    margin-left: 261px;
+}
+.email {
+    width: 45%;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+.email input {
+    background: #0D3252;
+    border: 0;
+    padding: 5px;
+    padding-left: 100px;
+    margin-right: 157px;
+}
+.msg {
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+}
+.msg textarea {
+    background: #0D3252;
+    border: 0;
+    padding: 20px;
+    padding-right: 190px;
+    margin-left: -54px;
+}
+
+.btn5 {
+    margin-right: 44px;
+    padding: 14px;
+    background: #30D0C1;
+    border: 0;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    color: #fff;
+}
+footer {
+    width: 100%;
+    background: #344B8E;
+    padding-top: 30px;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.media {
+    width: 100%;
+}
+ .social ul li {
+    display: inline-block;
+    margin: 10px 45px;
+    line-height: 100px;
+}
+.social ul li a {
+    color: white;
+    font-size: 20px;
+    margin: 4px 51px;
+}
